@@ -4,7 +4,7 @@ class Main {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);//testing this outswdfr
+        Scanner scanner = new Scanner(System.in);//testing this out
         // loop med en exit
         menu();
         int menuSelection = scanner.nextInt();
